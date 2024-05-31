@@ -1,0 +1,14 @@
+.login_p{
+    height: 80vh;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.7) url('../img/scholar-cap.jpg');
+    background-size: cover;
+    background-position: center;   
+    background-blend-mode: darken;
+/*    position: fixed;*/
+}
+.out {
+    padding-top: 10px;
+}
+
+
